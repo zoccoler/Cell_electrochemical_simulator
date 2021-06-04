@@ -4,3 +4,4 @@ ipywidgets==7.6.3
 scipy==1.6.2
 scikit-image==0.18.1
 notebook==6.4.0
+voila==0.2.10
