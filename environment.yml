@@ -12,3 +12,5 @@ dependencies:
   - ipywidgets
   - voila
   - bqplot
+  - ipyvolume
+  - ipympl
