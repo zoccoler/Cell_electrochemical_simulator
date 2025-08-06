@@ -8,9 +8,15 @@ The advanced mode allows the user to manually control the amount of potassium an
 
 ## Live Simulator
 
+Click the button below to start the live simulator. This version allows you to interactively change the concentrations of potassium and sodium ions inside and outside the cell, and observe how these changes affect the membrane potential and ion concentrations over time.
+
 [![Start Live Simulator](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zoccoler/Cell_electrochemical_simulator/main?urlpath=voila%2Frender%2FLive_Simulator.ipynb)
 
+![Live Simulator Screenshot](snapshot.png)
+
 ## Static Simulator
+
+Click the button below to start the static simulator. This version is similar to the live simulator, but it updates all time points in the view window at once. This is useful for understanding the overall dynamics of the system without real-time interaction.
 
 [![Start Static Simulator](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/zoccoler/Cell_electrochemical_simulator/main?urlpath=voila%2Frender%2FSimulator.ipynb)
 
