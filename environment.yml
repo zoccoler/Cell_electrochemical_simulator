@@ -1,0 +1,14 @@
+name: cell_simulator_env
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - jupyterlab
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - scikit-image
+  - ipywidgets
+  - voila
+  - bqplot
