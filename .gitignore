@@ -1,7 +1,2 @@
-Live_graph.ipynb
-data/simulator_box.png
-equacoes.ipynb
-equacoes_fixed_time_step.ipynb
-Simulator_bqplot.ipynb
-strip_chart.ipynb
-test.ipynb
+# notebook checkpoint files
+.ipynb_checkpoints/
